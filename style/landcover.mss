@@ -1,4 +1,6 @@
 // --- Parks, woods, other green things ---
+//todo change the disgin of the map here ( svg file)
+//todo add org/postfrontiers brigades gps/svg
 
 @grass: #cdebb0;        // Lch(90,32,128) also grassland, meadow, village_green, garden, allotments
 @scrub: #c8d7ab;        // Lch(84,24,122)
